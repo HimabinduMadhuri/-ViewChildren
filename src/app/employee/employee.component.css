@@ -1,0 +1,11 @@
+.employee{
+    border:2px solid blue;
+    margin:10px;
+    height:150px;
+    width:150px;
+    padding:10px;
+    color:red;
+}
+.class1{
+    color:greenyellow;
+}
